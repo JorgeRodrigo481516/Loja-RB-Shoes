@@ -1,0 +1,53 @@
+@media screen and (max-width: 1080px) {
+  main section#bgShoes {
+    background-image: url("../../Images/Mobile/Air-Jordan-1-Retro-High-OG-Wmns-TWIST-Feminino_1.jpg");
+  }
+}
+
+@media screen and (max-width: 768px) {
+  main section#bgShoes p {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 1129px) {
+  footer {
+    top: 1280px;
+  }
+}
+
+@media screen and (max-width: 847px) {
+  footer {
+    top: 1600px;
+  }
+
+  /* CUSTOMIZATIONS */
+
+  /* header div:first-child,
+  footer div {
+    background: linear-gradient(
+      90deg,
+      rgba(24, 24, 24, 1) 10%,
+      rgba(170, 17, 17, 1) 50%,
+      rgba(24, 24, 24, 1) 90%
+    );
+  } */
+}
+
+@media screen and (max-width: 565px) {
+  footer {
+    top: 2900px;
+  }
+
+  /* CUSTOMIZATIONS */
+
+  /* header div:first-child,
+  footer div {
+    background: linear-gradient(
+      90deg,
+      rgba(24, 24, 24, 1) 5%,
+      rgba(170, 17, 17, 1) 50%,
+      rgba(24, 24, 24, 1) 95%
+    );
+  } */
+}
